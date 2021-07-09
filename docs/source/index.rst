@@ -55,6 +55,7 @@ Clear areas used for hearing impaired
 
    beforeyoubegin
    howtosteps
+   usermanagement
 
 
 
