@@ -26,7 +26,7 @@ Example1
 .. _Testingalarmamanagemnt:
 
 Architecture
-----------
+------------
 
 
 
