@@ -39,5 +39,27 @@ Example 2
 #. Thats great
 #. Complete it today
 
+.. code:: python
+
+      redoc = [
+          {
+              'name': 'Batcomputer API',
+              'page': 'api',
+              'spec': 'specs/batcomputer.yml',
+              'embed': True,
+          },
+          {
+              'name': 'Example API',
+              'page': 'example/index',
+              'spec': 'http://example.com/openapi.yml',
+              'opts': {
+                  'lazy': False,
+                  'nowarnings': False,
+                  'nohostname': False,
+                  'required-props-first': True,
+                  'expand-responses': ["200", "201"],
+              }
+          },
+      ]
 
    
