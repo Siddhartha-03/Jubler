@@ -51,11 +51,18 @@ Clear areas used for hearing impaired
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Introduction
 
    beforeyoubegin
    howtosteps
    usermanagement
+
+   .. toctree::
+   :maxdepth: 1
+   :caption: Alarm Management
+   :name: sec-community
+
+   Introduction
 
 
 
