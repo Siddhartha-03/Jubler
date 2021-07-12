@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Xylem'
+project = 'XCS Test'
 copyright = '2021, Siddhartha'
 author = 'Siddhartha'
 
