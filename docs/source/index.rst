@@ -76,7 +76,7 @@ Clear areas used for hearing impaired
    :caption: Alarm Management
    :name: sec-community
 
-   Introduction
+   alarmintroduction
 
 
 Indices and tables
